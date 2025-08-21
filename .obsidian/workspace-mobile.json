@@ -15,9 +15,9 @@
               "state": {
                 "file": "Keltoi/3_References/Via Amerina/Via Amerina.canvas",
                 "viewState": {
-                  "x": 491.52223574320476,
-                  "y": 806.2166666666665,
-                  "zoom": -2.410522018156351
+                  "x": -80.71257101965466,
+                  "y": -286.2496689462356,
+                  "zoom": -3.539802046989406
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -185,9 +185,12 @@
   },
   "active": "2e023ec314797a99",
   "lastOpenFiles": [
-    "Keltoi/3_References/Architettura romanica/Architettura romanica.canvas",
     "Keltoi/0_Screenplay/Prologue.md",
-    "Keltoi/3_References/Cortona/Cortona.canvas",
-    "Keltoi/Notes.md"
+    "Keltoi/Notes.md",
+    "Keltoi/3_References/Via Amerina/Via Amerina.canvas",
+    "Keltoi/3_References/Dam City/Dam City.canvas",
+    "Keltoi/7_Blender/Tutorials.md",
+    "Keltoi/3_References/Architettura romanica/Architettura romanica.canvas",
+    "Keltoi/3_References/Cortona/Cortona.canvas"
   ]
 }
