@@ -6,11 +6,11 @@
   "dataview",
   "various-complements",
   "advanced-canvas",
-  "editing-toolbar",
   "wikilinks-to-mdlinks-obsidian",
   "ink",
   "longform",
   "obsidian-style-settings",
   "css-editor",
-  "obsidian-git"
+  "obsidian-git",
+  "editing-toolbar"
 ]
