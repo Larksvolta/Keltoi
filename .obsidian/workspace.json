@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keltoi/6_UE5/Inventory.md",
-                "mode": "source",
+                "file": "Keltoi/1_Characters/Character1.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inventory"
+              "title": "Character1"
             }
           }
         ]
@@ -179,10 +179,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Keltoi/6_UE5/Inventory.md"
+                "file": "Keltoi/1_Characters/Character1.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Inventory"
+              "title": "File properties for Character1"
             }
           }
         ],
@@ -209,8 +209,11 @@
   },
   "active": "599578ea3bc307ae",
   "lastOpenFiles": [
-    "Keltoi/3_References/Castle Acre Priory/Untitled.canvas",
     "Keltoi/0_Screenplay/Prologue.md",
+    "Keltoi/3_References/ConceptArt/ConceptArt.canvas",
+    "Keltoi/3_References/Cortona/Cortona.canvas",
+    "Keltoi/6_UE5/Inventory.md",
+    "Keltoi/3_References/Castle Acre Priory/Untitled.canvas",
     "2025-08-21.md",
     "Keltoi/Notes.md",
     "Keltoi/2_Locations/Location1.md",
@@ -222,7 +225,6 @@
     "Keltoi/6_UE5/Various.md",
     "Keltoi/6_UE5/Localization.md",
     "Keltoi/6_UE5/Lidar.md",
-    "Keltoi/6_UE5/Inventory.md",
     "Keltoi/5_Old/L.md",
     "Keltoi/1_Characters/Protagonist2.md",
     "Keltoi/1_Characters/Character1.md",
@@ -237,7 +239,6 @@
     "Keltoi/3_References/Via Amerina/Via Amerina.canvas",
     "Keltoi/3_References/Via Amerina/Pasted image 20250624193818.png",
     "Spain/Untitled.md",
-    "Keltoi/3_References/ConceptArt/ConceptArt.canvas",
     "Keltoi/3_References/ConceptArt",
     "Keltoi/3_References/Via Amerina",
     "BFEI/Work Experience/Work Experience.md",
@@ -246,11 +247,9 @@
     "BFEI/Web Design/Sitemap.md",
     "Sitemap.svg",
     "Work/LHH/My CRN_Accomplishment_Stories.md",
-    "Keltoi/3_References/Cortona/Cortona.canvas",
     "Keltoi/3_References/Architettura romanica/Architettura romanica.canvas",
     "Keltoi/3_References/Cortona",
     "Keltoi/3_References/San Simeone Stilita/San Simeone Stilita.canvas",
-    "Keltoi/3_References/Lanciano/Lanciano.canvas",
     "Spain",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
     "Excalidraw/Scripts/Downloaded",
