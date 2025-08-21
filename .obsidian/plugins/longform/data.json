@@ -6,6 +6,16 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2025-08-21T22:37:39.904Z",
+      "total": 0,
+      "drafts": {
+        "Miscellaneous/Longform/Keltoi/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2025-08-20T22:13:29.039Z",
       "total": 0,
       "drafts": {
@@ -287,16 +297,6 @@
     },
     {
       "start": "2025-03-09T11:24:15.144Z",
-      "total": 0,
-      "drafts": {
-        "Miscellaneous/Longform/Keltoi/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-02-12T19:34:13.262Z",
       "total": 0,
       "drafts": {
         "Miscellaneous/Longform/Keltoi/Index.md": {
