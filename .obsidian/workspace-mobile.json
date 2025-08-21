@@ -100,7 +100,7 @@
         }
       },
       {
-        "id": "3067522fbb964aaa",
+        "id": "24d25dc3e323175d",
         "type": "leaf",
         "state": {
           "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -169,7 +169,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,7 +180,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "06863e4dc07e8fc8",
+  "active": "2f1b7da1072de612",
   "lastOpenFiles": [
     "Keltoi/0_Screenplay/Chapter 1.md",
     "Keltoi/3_References/Via Amerina/Via Amerina.canvas",
