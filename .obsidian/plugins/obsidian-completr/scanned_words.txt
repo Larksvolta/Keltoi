@@ -1,0 +1,15 @@
+key
+Borgo
+Borghese
+Porta
+Portese
+Programming
+Refactor
+using
+while
+or
+do
+loops
+in
+the
+Inventory

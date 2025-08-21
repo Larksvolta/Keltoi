@@ -1,0 +1,66 @@
+{
+  "nodes": [
+    {
+      "id": "4c1100995fe00bd9",
+      "type": "link",
+      "url": "https://www.destinazionemarche.it/wp-content/uploads/2019/11/abbazia-san-vittore-delle-chiuse-lorenzo-cicconi-massi2.jpg",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "62957090e7e2eda5",
+      "type": "link",
+      "url": "https://www.destinazionemarche.it/wp-content/uploads/2019/11/abbazia-san-vittore-delle-chiuse-e_choes-instagram-1.jpg",
+      "styleAttributes": {},
+      "x": 280,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ba7759db62579302",
+      "type": "link",
+      "url": "https://www.destinazionemarche.it/wp-content/uploads/2019/11/abbazia-san-vittore-delle-chiuse-giuliano-betti.jpg",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a4766f3615dbd1b8",
+      "type": "link",
+      "url": "https://www.destinazionemarche.it/wp-content/uploads/2019/11/abbazia-san-vittore-delle-chiuse-e_choes-instagram-720x400.jpg",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 320,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "437ec7514ca8450e",
+      "type": "link",
+      "url": "https://www.destinazionemarche.it/wp-content/uploads/2019/11/Genga-Abbazia-San-Vittore-lorenzo-cicconi-massi-1.jpg",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 320,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1b4e61770eba9c0e",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/d/da/Abaziasanvittorefrasassi.jpg",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 320,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

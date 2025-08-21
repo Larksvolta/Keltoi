@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"f0136799adfbd39d","x":1793,"y":-277,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Thornton Abbey/15656946.jpg"},
+		{"id":"82bfc8ad1c0f3d20","x":2238,"y":-277,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Thornton Abbey/20588591.jpg"},
+		{"id":"4205717cef72ccc5","x":2683,"y":-277,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Thornton Abbey/21727792.jpg"},
+		{"id":"ba702d7e573ec64b","x":3128,"y":-277,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Thornton Abbey/21727825.jpg"},
+		{"id":"0b842bd770304c17","x":3573,"y":-277,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Thornton Abbey/1779437951_98ebabd348.jpg"},
+		{"id":"5ae52eddd2321a02","x":4018,"y":-277,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Thornton Abbey/1854412630_e1c006e272.jpg"},
+		{"id":"14e39a60c365e98c","x":1793,"y":168,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Thornton Abbey/Thornton_Abbey_Gatehouse2.jpg"},
+		{"id":"0c70cb2fc6643eaa","x":2238,"y":168,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Thornton Abbey/Thornton_Abbey_Ruins.jpg"},
+		{"id":"c276386dc8d827f4","x":2683,"y":168,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Thornton Abbey/Thornton_Abbey_Stone_Vaulting.jpg"},
+		{"id":"bd940b159ff56bd6","x":3128,"y":168,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Thornton Abbey/y_thornton_04.jpg"},
+		{"id":"1f6aff7b96692815","x":13,"y":-277,"width":400,"height":300,"type":"file","file":"Keltoi/3_References/Thornton Abbey/4583837.jpg"},
+		{"id":"a558fadb1acd4c50","x":458,"y":-277,"width":400,"height":300,"type":"file","file":"Keltoi/3_References/Thornton Abbey/9401943.jpg"},
+		{"id":"a0066e1fcfca71b8","x":13,"y":168,"width":400,"height":300,"type":"file","file":"Keltoi/3_References/Thornton Abbey/ThorneyAbbey2.jpg"},
+		{"id":"f1a055e4df34ecdd","x":458,"y":168,"width":400,"height":300,"type":"file","file":"Keltoi/3_References/Thornton Abbey/Thornton_Abbey.jpg"},
+		{"id":"76d4414f4670fa08","x":903,"y":-277,"width":400,"height":267,"type":"file","file":"Keltoi/3_References/Thornton Abbey/15656875.jpg"},
+		{"id":"5dfb0c61005fc615","x":903,"y":168,"width":300,"height":400,"type":"file","file":"Keltoi/3_References/Thornton Abbey/Thornton_Abbey_door.jpg"},
+		{"id":"38b18bd57e8c58d3","x":1348,"y":-277,"width":400,"height":267,"type":"file","file":"Keltoi/3_References/Thornton Abbey/15656914.jpg"},
+		{"id":"2c40b157dfe31fa9","x":1348,"y":168,"width":400,"height":300,"type":"file","file":"Keltoi/3_References/Thornton Abbey/Thornton_Abbey_Gatehouse1.jpg"}
+	],
+	"edges":[]
+}

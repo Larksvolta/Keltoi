@@ -1,0 +1,180 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 400,
+      "id": "4c81b8224c0758bc",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://www.inagrofalisco.it/images/incammino/via-amerina/tappa2-orte-vasanello-corchiano/monumento-naturale-forre-corchiano-via-amerina.jpg",
+      "width": 400,
+      "x": -20,
+      "y": -420
+    },
+    {
+      "height": 400,
+      "id": "f640f7233694ca38",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://www.inagrofalisco.it/images/incammino/via-amerina/tappa2-orte-vasanello-corchiano/chiesa-madonna-del-soccorso-corchiano.jpg",
+      "width": 400,
+      "x": -460,
+      "y": 20
+    },
+    {
+      "height": 400,
+      "id": "79bc73544c4c9983",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://www.inagrofalisco.it/images/incammino/via-amerina/tappa2-orte-vasanello-corchiano/galleria-sentieri-orizzontale.jpg",
+      "width": 400,
+      "x": -20,
+      "y": 20
+    },
+    {
+      "height": 400,
+      "id": "f3c9d0abffea0ca6",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://img.oastatic.com/img2/76778364/max/variant.jpg?revbust=9b22a3b2",
+      "width": 400,
+      "x": -460,
+      "y": 460
+    },
+    {
+      "height": 400,
+      "id": "30132359ffd14c72",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://img.oastatic.com/img2/76507286/max/variant.jpg?revbust=9b22a3b2",
+      "width": 400,
+      "x": -20,
+      "y": 460
+    },
+    {
+      "height": 400,
+      "id": "4a68641974df9753",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://img.oastatic.com/img2/76507285/max/variant.jpg?revbust=9b22a3b2",
+      "width": 400,
+      "x": -460,
+      "y": 920
+    },
+    {
+      "height": 400,
+      "id": "332181944ff7cda4",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://img.oastatic.com/img2/76522496/max/variant.jpg?revbust=9b22a3b2",
+      "width": 400,
+      "x": -20,
+      "y": 920
+    },
+    {
+      "height": 400,
+      "id": "09108192feaf091e",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://www.inagrofalisco.it/images/incammino/via-amerina/tappa3-corchiano-falerii-nepi/Falerii_Novi_cammino_Via_Amerina.jpg",
+      "width": 400,
+      "x": 440,
+      "y": -420
+    },
+    {
+      "height": 400,
+      "id": "990396ab70955544",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://img.oastatic.com/img2/76624097/max/variant.jpg?revbust=9b22a3b2",
+      "width": 400,
+      "x": 440,
+      "y": 20
+    },
+    {
+      "height": 400,
+      "id": "bf3ba593bf9829ce",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://img.oastatic.com/img2/76624156/max/variant.jpg?revbust=9b22a3b2",
+      "width": 400,
+      "x": 440,
+      "y": 460
+    },
+    {
+      "height": 400,
+      "id": "4240e794ccd5cf40",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://img.oastatic.com/img2/76520332/max/variant.jpg?revbust=9b22a3b2",
+      "width": 400,
+      "x": 440,
+      "y": 920
+    },
+    {
+      "height": 400,
+      "id": "861f3ae25f67b19d",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://img.oastatic.com/img2/76520376/max/variant.jpg?revbust=9b22a3b2",
+      "width": 400,
+      "x": 880,
+      "y": -420
+    },
+    {
+      "height": 400,
+      "id": "f6cfded6743ea688",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://img.oastatic.com/img2/76522537/max/variant.jpg?revbust=9b22a3b2",
+      "width": 400,
+      "x": 880,
+      "y": 20
+    },
+    {
+      "height": 400,
+      "id": "e19fe351582871ce",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://www.inagrofalisco.it/images/incammino/via-amerina/tappa3-corchiano-falerii-nepi/Chiesa_Falerii_Novi_Via_Amerina.jpg",
+      "width": 400,
+      "x": 880,
+      "y": 460
+    },
+    {
+      "height": 400,
+      "id": "d0caf883ce85cea4",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://www.inagrofalisco.it/images/faleri-novi.jpg",
+      "width": 400,
+      "x": 880,
+      "y": 920
+    },
+    {
+      "file": "Keltoi/3_References/Via Amerina/Pasted image 20250624193818.png",
+      "height": 400,
+      "id": "a31a08a90ef0c4ef",
+      "type": "file",
+      "width": 320,
+      "x": -460,
+      "y": -420
+    }
+  ]
+}

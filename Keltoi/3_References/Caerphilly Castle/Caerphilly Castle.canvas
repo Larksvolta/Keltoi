@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"b8262ad10b5d991a","type":"file","file":"Keltoi/3_References/Caerphilly Castle/108-Caerphilly-Castle,-South-Wales-q75-1024x768.jpg","x":-49,"y":-241,"width":400,"height":300},
+		{"id":"ddb26086fdb93ea9","type":"file","file":"2023422160040643952hkufhT.wbz","x":-49,"y":204,"width":400,"height":400},
+		{"id":"28ab3ce348903bc5","type":"file","file":"Keltoi/3_References/Caerphilly Castle/Caerphilly_Castle_Detail.jpg","x":-49,"y":649,"width":399,"height":271},
+		{"id":"3f045237c6163d7d","type":"file","file":"2255918710093819812iAKKrd.wbz","x":396,"y":204,"width":400,"height":400},
+		{"id":"70e4cdc7ffe10210","type":"file","file":"Keltoi/3_References/Caerphilly Castle/Caerphilly_castle_enhanced.jpg","x":396,"y":649,"width":400,"height":235},
+		{"id":"4dc122396904752f","type":"file","file":"Keltoi/3_References/Caerphilly Castle/178-Plan-of-Caerphilly-Castle-q67-1279x1565.jpg","x":396,"y":-241,"width":327,"height":400},
+		{"id":"8646a01f760d2d70","type":"file","file":"Keltoi/3_References/Caerphilly Castle/2444786043_2797cb4a2b_b.jpg","x":841,"y":-241,"width":400,"height":300},
+		{"id":"2f85359cc7c457d0","type":"file","file":"2309405620040643952YtTWuR.wbz","x":841,"y":204,"width":400,"height":400},
+		{"id":"400c481dac63c347","type":"file","file":"Keltoi/3_References/Caerphilly Castle/caerphilly55.jpg","x":841,"y":649,"width":400,"height":258},
+		{"id":"3bbcbd91592ff3a5","type":"file","file":"Keltoi/3_References/Caerphilly Castle/2479394103_e3c04c8150_b.jpg","x":1286,"y":-241,"width":400,"height":300},
+		{"id":"33953b65499d99b3","type":"file","file":"2787543580040643952kJZbpC.wbz","x":1286,"y":204,"width":400,"height":400},
+		{"id":"cb2a060f3213e3ef","type":"file","file":"Keltoi/3_References/Caerphilly Castle/caerphl1.jpg","x":1286,"y":649,"width":400,"height":300},
+		{"id":"3a98fb40efd35dd3","type":"file","file":"Keltoi/3_References/Caerphilly Castle/2479394795_f5ef20a43c_b.jpg","x":1731,"y":-241,"width":400,"height":300},
+		{"id":"c8039c47446c2f14","type":"file","file":"2884733570040643952kbUmVj.wbz","x":1731,"y":204,"width":400,"height":400},
+		{"id":"2c2a419d85532c82","type":"file","file":"Keltoi/3_References/Caerphilly Castle/2479446645_05f3c60a8f_b.jpg","x":2176,"y":-241,"width":300,"height":400},
+		{"id":"1b7be7057700315a","type":"file","file":"Keltoi/3_References/Caerphilly Castle/2480210654_11f68db244_b.jpg","x":2621,"y":-241,"width":300,"height":400},
+		{"id":"945bcd2b3661ee16","type":"file","file":"Keltoi/3_References/Caerphilly Castle/CADW Castle pic.jpg","x":2621,"y":204,"width":400,"height":317},
+		{"id":"602bc668d92b61db","type":"file","file":"Keltoi/3_References/Caerphilly Castle/2480211242_56f1439b21_b.jpg","x":3066,"y":-241,"width":400,"height":300},
+		{"id":"949ee783a363f713","type":"file","file":"Keltoi/3_References/Caerphilly Castle/Caerphilly Castle, Wales, United Kingdom.jpg","x":3066,"y":204,"width":400,"height":300},
+		{"id":"e9e8542b249d82ba","type":"file","file":"2961449150040643952qiZYxK.wbz","x":9800,"y":-141,"width":400,"height":400},
+		{"id":"4a2d28a9ebcec442","type":"file","file":"Keltoi/3_References/Caerphilly Castle/2480262166_d014dcb64d_b.jpg","x":3511,"y":-241,"width":400,"height":300},
+		{"id":"dfb8c6c07415b2a7","type":"file","file":"Keltoi/3_References/Caerphilly Castle/Caerphilly_Castle,_Wales.jpg","x":3511,"y":204,"width":400,"height":243},
+		{"id":"928867677daae819","type":"file","file":"Keltoi/3_References/Caerphilly Castle/caerphilly_castle.jpg","x":3956,"y":204,"width":400,"height":173},
+		{"id":"836066dc82dc7de8","type":"file","file":"1303698434057899343kBoufa.wbz","x":3956,"y":-241,"width":400,"height":400}
+	],
+	"edges":[],
+	"metadata":{}
+}

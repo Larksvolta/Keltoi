@@ -1,0 +1,436 @@
+{
+  "nodes": [
+    {
+      "id": "d7ca1a07b12722a5",
+      "type": "link",
+      "url": "https://lh7-us.googleusercontent.com/docsz/AD_4nXdTAbv2V7gG1l2plGqWM3l_bNoDhjMphs2fOy5gsUkdNMAunzIJliOtCoB7f089Q71Xr2FHaQtVN8m7PlNmMJHS8JiVVEingxocWISv41LDoXc40yfY4w17LagUj894LaKS6JH4Gs5lS40Q1yQTxszUCblC?key=ffjqWHMFvE-isM8qU6R57w",
+      "styleAttributes": {},
+      "x": 1240,
+      "y": 280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a77f62c84783d28d",
+      "type": "link",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Arco_rom%C3%A1nico_de_San_Pedro_de_las_Due%C3%B1as_%28M.A.N.%29_01.jpg/1024px-Arco_rom%C3%A1nico_de_San_Pedro_de_las_Due%C3%B1as_%28M.A.N.%29_01.jpg",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1d36703a1a9093a3",
+      "type": "link",
+      "url": "https://artincontext.org/wp-content/uploads/2021/07/Romanesque-Art.avif",
+      "styleAttributes": {},
+      "x": 280,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "549391e892779bf4",
+      "type": "link",
+      "url": "https://artincontext.org/wp-content/uploads/2021/07/Early-Romanesque-Period.avif",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c8090773a29b0452",
+      "type": "link",
+      "url": "https://artincontext.org/wp-content/uploads/2021/07/Romanesque-Definition.avif",
+      "styleAttributes": {},
+      "x": 1240,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "848f8ed73f97e7a3",
+      "type": "link",
+      "url": "https://artincontext.org/wp-content/uploads/2021/07/Romanesque-Period-Buildings.avif",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7914d33575c53bfc",
+      "type": "link",
+      "url": "https://artincontext.org/wp-content/uploads/2021/07/Architecture-From-the-Romanesque-Period.avif",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "fa69aed05b68c88b",
+      "type": "link",
+      "url": "https://lh7-us.googleusercontent.com/docsz/AD_4nXfU0HNh6abJQu1M_Cp3XO1LMndvWELk1YzZa4rOblcAoQf3pZL6Ayt5gXy6t8jfmNJScOKaKBLb8CQWQ0pxstLWLD58fZyyCU_dR4tUcd8hyTvu9sa69VMWb5Jrir32_1SPt3f9PbxySl4jMKb521AGEFM?key=ffjqWHMFvE-isM8qU6R57w",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5fbfdfd4947625ea",
+      "type": "link",
+      "url": "https://brewminate.com/wp-content/uploads/2018/05/050218-35-Architecture-Art-History-Romanesque-Medieval-Middle-Ages.jpg",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0a6307b862906a12",
+      "type": "link",
+      "url": "https://brewminate.com/wp-content/uploads/2018/05/050218-36-Architecture-Art-History-Romanesque-Medieval-Middle-Ages.jpeg",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 760,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1c4027b789bcb7d7",
+      "type": "link",
+      "url": "https://brewminate.com/wp-content/uploads/2018/05/050218-39-Architecture-Art-History-Romanesque-Medieval-Middle-Ages.jpeg",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 760,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c2a516d155372dfe",
+      "type": "link",
+      "url": "https://brewminate.com/wp-content/uploads/2018/05/050218-41-Architecture-Art-History-Romanesque-Medieval-Middle-Ages.jpeg",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 760,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8a901e7f101de8e6",
+      "type": "link",
+      "url": "https://brewminate.com/wp-content/uploads/2018/05/050218-42-Architecture-Art-History-Romanesque-Medieval-Middle-Ages.jpeg",
+      "styleAttributes": {},
+      "x": 1240,
+      "y": 760,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c0b64b98b2ea90f9",
+      "type": "link",
+      "url": "https://brewminate.com/wp-content/uploads/2018/05/050218-44-Architecture-Art-History-Romanesque-Medieval-Middle-Ages.jpe",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 1240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8e842012955b2a32",
+      "type": "link",
+      "url": "https://brewminate.com/wp-content/uploads/2018/05/050218-46-Architecture-Art-History-Romanesque-Medieval-Middle-Ages.jpe",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 1240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "10aec57e51dbc8e4",
+      "type": "link",
+      "url": "https://brewminate.com/wp-content/uploads/2018/05/050218-48-Architecture-Art-History-Romanesque-Medieval-Middle-Ages.jpeg",
+      "styleAttributes": {},
+      "x": 1240,
+      "y": 1240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1af072d0635911d3",
+      "type": "link",
+      "url": "https://brewminate.com/wp-content/uploads/2018/05/050218-50-Architecture-Art-History-Romanesque-Medieval-Middle-Ages.jpe",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 1720,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "864b3afbe1ec8ef6",
+      "type": "link",
+      "url": "https://brewminate.com/wp-content/uploads/2018/05/050218-51-Architecture-Art-History-Romanesque-Medieval-Middle-Ages.jpeg",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 1720,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "74317e5b737745b0",
+      "type": "link",
+      "url": "https://lh7-us.googleusercontent.com/docsz/AD_4nXfl4tN5nK1riSg67jbZyjX0Z2CyoKAn8alI346NWVTkpIJqdOcXh_bKaTuvD5y1l8uMf9G8WPFBEwIM3omOuNd_LMGggJqGGwuUWuluEgzE8Pj8cUxXhmbTD8xobScguUtQu61m6TaxCk-z9o-xrrk3M3k?key=ffjqWHMFvE-isM8qU6R57w",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 1720,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e246dd7b9876942a",
+      "type": "file",
+      "file": "Keltoi/3_References/Architettura romanica/autun-st-lazare-tympanon.jpeg",
+      "styleAttributes": {},
+      "x": 1240,
+      "y": 1720,
+      "width": 400,
+      "height": 277
+    },
+    {
+      "id": "48d6197de674560d",
+      "type": "link",
+      "url": "http://www.builderbill-diy-help.com/image-files/aquaduct-segovia.jpg",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 1720,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "eeda066c4517c350",
+      "type": "link",
+      "url": "https://cards.algoreducation.com/_next/image?url=https%3A%2F%2Ffiles.algoreducation.com%2Fproduction-ts%2F__S3__08da00de-4bec-4a09-b6c1-ba71f355ee9b&w=1920&q=75",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 2200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "73598e35a7e0e840",
+      "type": "link",
+      "url": "https://brewminate.com/wp-content/uploads/2018/05/050218-49-Architecture-Art-History-Romanesque-Medieval-Middle-Ages.jpe",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 2200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "84e7fb520d0a70a8",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/d/da/P1050201.jpg",
+      "styleAttributes": {},
+      "x": 1240,
+      "y": 2200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f1ecf73a0f1f5c42",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/e/e8/Tournai_JPG001.jpg",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 2200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6c9a946ec2916017",
+      "type": "link",
+      "url": "https://illustrarch.com/wp-content/uploads/2022/09/romanesque-architecture-explained.jpeg",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 760,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "bab78cffd141dbc5",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/3/3e/Angouleme_cathedral_StPierre_a.jpg",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 2200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4b9d5b6f10f3a683",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/b/b6/Dom_und_Liebfrauen_Trier.jpg",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 1240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "be1a5ed002efbe33",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/b/b3/Bamberg_Dom.jpg",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 3160,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "091c715f6a01d309",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/5/53/Perigueux_Cathedrale_Saint_Front_a.jpg",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 3160,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b790fae9e0f9b137",
+      "type": "link",
+      "url": "https://brewminate.com/wp-content/uploads/2018/05/050218-43-Architecture-Art-History-Romanesque-Medieval-Middle-Ages.jpeg",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 2680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "92e7025f4675ad8b",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/f/ff/Kosciol_Andrzeja.jpg",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 2680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d4a5eda9c1d8a994",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/1/16/Lleida-13-2_seu_vella_capitel.jpg",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 2680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9c117d4ecdf398d1",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/7/70/Modillonsarthous2.JPG",
+      "styleAttributes": {},
+      "x": 1240,
+      "y": 2680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "034d99325c52c48f",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/f/fc/Pante%C3%B3nSanIsidoroLe%C3%B3n.jpg",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 2680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9b3b2a21b100aa26",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/0/09/Science_Museum_Windows.jpg",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 3160,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "17eff263a384c028",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/e/e9/Abbey-of-senanque-provence-gordes.jpg",
+      "styleAttributes": {},
+      "x": 1240,
+      "y": 3160,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "abf3df4bc366f660",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/c/ca/Seu_urgell.jpg",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 3640,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "466e95b4c3eba7de",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/8/86/CrypteBayeux_g%C3%A9n%C3%A9ral.JPG",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 3640,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d47fe8247eb80795",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/9/91/Winchester_Cathedral_07.JPG",
+      "styleAttributes": {},
+      "x": 1240,
+      "y": 3640,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3d4043ff93a071e3",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/a/ac/LimburgerDomFront.jpg",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 3640,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3f7b458af90eee80",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/0/08/Taull001.jpg",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 4120,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b15fc52a53511f5a",
+      "type": "link",
+      "url": "https://www.newworldencyclopedia.org/d/images/9/97/Canterbury_Cathedral_11.JPG",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 4120,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

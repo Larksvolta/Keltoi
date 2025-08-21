@@ -1,0 +1,1 @@
+Last year I took an interest in programming and started using Unreal Engine with the idea of developing my own game. Although I built only a part of the core features, this was enough to inspire me to pursue a career in game design. I am also passionate about music and composition, and I think this helped me greatly to enhance my creativity and attention to detail

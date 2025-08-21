@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"2efb7432b5d74f5d","type":"file","file":"Keltoi/3_References/Blarney Castle/080306_blarney_castle3.jpg","x":1043,"y":-310,"width":400,"height":300},
+		{"id":"5fa666318b9f71e4","type":"file","file":"Keltoi/3_References/Blarney Castle/080306_blarney_castle5.jpg","x":1488,"y":-310,"width":300,"height":400},
+		{"id":"3ce2ed699879b12b","type":"file","file":"Keltoi/3_References/Blarney Castle/Blarney Castle 2.jpg","x":1933,"y":-310,"width":400,"height":268},
+		{"id":"882371fd3262be63","type":"file","file":"Keltoi/3_References/Blarney Castle/Blarney Castle 3.jpg","x":2378,"y":-310,"width":268,"height":400},
+		{"id":"b2834970b70d064c","type":"file","file":"Keltoi/3_References/Blarney Castle/Blarney Castle.2JPG.jpg","x":2823,"y":-310,"width":400,"height":260},
+		{"id":"a9dd828b9cc4bad7","type":"file","file":"Keltoi/3_References/Blarney Castle/blarney castle.jpg","x":3268,"y":-310,"width":316,"height":400},
+		{"id":"716275df11de8310","type":"file","file":"Keltoi/3_References/Blarney Castle/Blarney_Castle._co_Cork._Ireland..jpg","x":3713,"y":-310,"width":299,"height":400},
+		{"id":"1931fe35711f51f6","type":"file","file":"Keltoi/3_References/Blarney Castle/Blarney_castle_a03.jpg","x":4158,"y":-310,"width":400,"height":267},
+		{"id":"c690bee7affec956","type":"file","file":"Keltoi/3_References/Blarney Castle/blarneycastle2.jpg","x":1043,"y":135,"width":400,"height":266},
+		{"id":"53192ef692a94fc1","type":"file","file":"Keltoi/3_References/Blarney Castle/blarney-castle3.jpg","x":1488,"y":135,"width":400,"height":300},
+		{"id":"c8607c3f24b520fc","type":"file","file":"Keltoi/3_References/Blarney Castle/blarney-castle4.jpg","x":1933,"y":135,"width":400,"height":300},
+		{"id":"f8657d9e2f8f6775","type":"file","file":"Keltoi/3_References/Blarney Castle/blarney-castle5.jpg","x":2378,"y":135,"width":400,"height":300},
+		{"id":"80e19592581b79a8","type":"file","file":"Keltoi/3_References/Blarney Castle/blarney-castle6.jpg","x":2823,"y":135,"width":400,"height":300},
+		{"id":"bd286b315cc9e0f1","type":"file","file":"Keltoi/3_References/Blarney Castle/blarney-castle7.jpg","x":3268,"y":135,"width":400,"height":300},
+		{"id":"f013f0f97b2aeff7","type":"file","file":"Keltoi/3_References/Blarney Castle/blarney-castle8.jpg","x":3713,"y":135,"width":400,"height":300},
+		{"id":"e9112f4034fca3e2","type":"file","file":"Keltoi/3_References/Blarney Castle/blarney-castle9.jpg","x":4158,"y":135,"width":400,"height":300},
+		{"id":"6924e28638bdb462","type":"file","file":"Keltoi/3_References/Blarney Castle/blarney-castle10.jpg","x":153,"y":580,"width":400,"height":300},
+		{"id":"6e6e24d41b49e5ed","type":"file","file":"Keltoi/3_References/Blarney Castle/blarney-castle-looking-down.jpg","x":598,"y":580,"width":400,"height":300},
+		{"id":"6c2303d9d871ecc4","type":"file","file":"Keltoi/3_References/Blarney Castle/blarney-castle-side-view-oct-2006.jpg","x":1043,"y":580,"width":400,"height":300},
+		{"id":"97683f11cc12139e","type":"file","file":"Keltoi/3_References/Blarney Castle/blarney-castle-tower-1-color.jpg","x":1488,"y":580,"width":400,"height":300},
+		{"id":"b102ddc341de6216","type":"file","file":"Keltoi/3_References/Blarney Castle/L.Ochab-Scotland,Blarney Castle.jpg","x":1933,"y":580,"width":299,"height":400},
+		{"id":"1f10d3e5d9233808","type":"file","file":"Keltoi/3_References/Blarney Castle/080306_blarney_castle1.jpg","x":153,"y":-310,"width":400,"height":300},
+		{"id":"7b35652940bc5f89","type":"file","file":"Keltoi/3_References/Blarney Castle/blarneycastle.jpg","x":153,"y":135,"width":400,"height":300},
+		{"id":"ecb07609b0bd7a8c","type":"file","file":"Keltoi/3_References/Blarney Castle/080306_blarney_castle2.jpg","x":598,"y":-310,"width":300,"height":400},
+		{"id":"6cdfe00e291615fa","type":"file","file":"Keltoi/3_References/Blarney Castle/blarney-castle.jpg","x":598,"y":135,"width":400,"height":300}
+	],
+	"edges":[]
+}

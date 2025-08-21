@@ -1,0 +1,26 @@
+{
+  "nodes": [
+    {
+      "id": "f90ea7f17cf2a4bb",
+      "type": "link",
+      "url": "https://s2.wklcdn.com/image_185/5574439/70370077/46371575Master.jpg",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a0d47ff7c5d25cb6",
+      "type": "link",
+      "url": "https://www.ilcamminodelcretino.it/wp-content/uploads/11042022-20220411_130801-1024x768.jpg",
+      "styleAttributes": {},
+      "x": -728,
+      "y": -148,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"27697be0e073ec25","type":"file","file":"Keltoi/3_References/Architettura romanica/San Claudio al Chienti/8.jpg","x":-57,"y":-250,"width":392,"height":400},
+		{"id":"26eb0270e0bdd936","type":"file","file":"Keltoi/3_References/Architettura romanica/San Claudio al Chienti/abbazia-di-san-claudio.jpg","x":388,"y":-250,"width":400,"height":300},
+		{"id":"e5beb6e7e2a23ab6","type":"file","file":"Keltoi/3_References/Architettura romanica/San Claudio al Chienti/corridonia.webp","x":833,"y":-250,"width":400,"height":228},
+		{"id":"225f72456ad1c194","type":"file","file":"Keltoi/3_References/Architettura romanica/San Claudio al Chienti/dscf1785.jpg","x":-57,"y":240,"width":400,"height":300},
+		{"id":"36075e2515cc955f","type":"file","file":"Keltoi/3_References/Architettura romanica/San Claudio al Chienti/unnamed.jpg","x":388,"y":240,"width":399,"height":266},
+		{"id":"dc465350622d184a","type":"file","file":"Keltoi/3_References/Architettura romanica/San Claudio al Chienti/vista-dalla-base-della.jpg","x":833,"y":240,"width":400,"height":300}
+	],
+	"edges":[],
+	"metadata":{}
+}

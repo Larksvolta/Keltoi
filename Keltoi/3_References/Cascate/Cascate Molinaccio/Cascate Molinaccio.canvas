@@ -1,0 +1,26 @@
+{
+  "nodes": [
+    {
+      "id": "eaca42429157d548",
+      "type": "link",
+      "url": "https://i0.wp.com/molinaccio.com/wp-content/uploads/2022/12/agriturismo-il-molinaccio-19.jpeg?resize=768%2C576&ssl=1",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ceed237143186a7f",
+      "type": "link",
+      "url": "https://illaziodeimisteri.wordpress.com/wp-content/uploads/2021/12/teverina-cascata-del-molinaccio-di-rio-chiaro-1-rcrlb.jpg",
+      "styleAttributes": {},
+      "x": 240,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

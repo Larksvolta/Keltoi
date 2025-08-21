@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "id": "e93c28eafdb92267",
+      "type": "file",
+      "file": "Keltoi/3_References/Abbazia di San Bartolomeo/bartolomeo-2.jpg",
+      "styleAttributes": {},
+      "x": -20,
+      "y": -80,
+      "width": 400,
+      "height": 225
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

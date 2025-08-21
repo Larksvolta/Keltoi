@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"6da9fc9caad6ac8b","type":"file","file":"Keltoi/3_References/Whitby Abbey/dscn0308.jpg","x":445,"y":-312,"width":400,"height":300},
+		{"id":"8b55093261ddf16e","type":"file","file":"Keltoi/3_References/Whitby Abbey/fx02_006.jpg","x":890,"y":-312,"width":400,"height":300},
+		{"id":"d228becd03f504a3","type":"file","file":"Keltoi/3_References/Whitby Abbey/Pageant Whitby Abbey 1964 Andrew Pearson.jpg","x":1335,"y":-312,"width":291,"height":400},
+		{"id":"da47578124466e9c","type":"file","file":"Keltoi/3_References/Whitby Abbey/Whitby 014.jpg","x":1780,"y":-312,"width":400,"height":300},
+		{"id":"e96beef1e2ad6faf","type":"file","file":"Keltoi/3_References/Whitby Abbey/Whitby Abbey 2.jpg","x":2225,"y":-312,"width":400,"height":300},
+		{"id":"82f3e6e625ece668","type":"file","file":"Keltoi/3_References/Whitby Abbey/whitby abbey.jpg","x":2670,"y":-312,"width":400,"height":300},
+		{"id":"f2bb33cdea0ab4fb","type":"file","file":"Keltoi/3_References/Whitby Abbey/whitby_abbey.png","x":3115,"y":-312,"width":361,"height":400},
+		{"id":"47977e7737579e22","type":"file","file":"Keltoi/3_References/Whitby Abbey/whitby_abbey_1.jpg","x":3560,"y":-312,"width":400,"height":321},
+		{"id":"8a58e73a9dd387fb","type":"file","file":"Keltoi/3_References/Whitby Abbey/whitby_abbey_2.jpg","x":4005,"y":-312,"width":400,"height":242},
+		{"id":"8938c60ecaea5f00","type":"file","file":"Keltoi/3_References/Whitby Abbey/Whitby_Abbey_06.jpg","x":445,"y":133,"width":300,"height":400},
+		{"id":"222cba7a40a034fb","type":"file","file":"Keltoi/3_References/Whitby Abbey/Whitby_Abbey_08.jpg","x":890,"y":133,"width":400,"height":300},
+		{"id":"6542a6d8e9e1a3c6","type":"file","file":"Keltoi/3_References/Whitby Abbey/WhitbyoooAbbey.jpg","x":1335,"y":133,"width":400,"height":266},
+		{"id":"c256f75be31d5830","type":"file","file":"Keltoi/3_References/Whitby Abbey/windows_whitby_abbey.png","x":1780,"y":133,"width":173,"height":400},
+		{"id":"a5778dc41a52c9b4","type":"file","file":"1408497312038784126fMBYPk.wbz","x":0,"y":-312,"width":400,"height":400},
+		{"id":"860a09a91e37b690","type":"file","file":"Keltoi/3_References/Whitby Abbey/Whitby_Abbey_04.jpg","x":0,"y":133,"width":400,"height":300}
+	],
+	"edges":[]
+}

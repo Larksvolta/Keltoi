@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"917e8703d22f7170","type":"file","file":"Keltoi/3_References/Cornwall/Grose-map-cornwall-q80-2340x1899.jpg","x":787,"y":-185,"width":400,"height":325},
+		{"id":"a83e0bc20ca717af","type":"file","file":"Keltoi/3_References/Cornwall/Land's_End,_Cornwall,_England.jpg","x":1227,"y":-185,"width":400,"height":267},
+		{"id":"9facf5f7e016cc44","type":"file","file":"Keltoi/3_References/Cornwall/blog saint michael.jpg","x":-533,"y":-185,"width":400,"height":300},
+		{"id":"74d35a93bb67b895","type":"file","file":"Keltoi/3_References/Cornwall/cornwall.jpg","x":-93,"y":-185,"width":400,"height":295},
+		{"id":"84a9a4d86ea6c332","type":"file","file":"Keltoi/3_References/Cornwall/Cornwall001.jpg","x":347,"y":-185,"width":400,"height":267},
+		{"id":"354758c6a3ec70f7","type":"file","file":"Keltoi/3_References/Cornwall/P1010381.jpg","x":-93,"y":180,"width":400,"height":300},
+		{"id":"8dccf6b67630ec60","type":"file","file":"Keltoi/3_References/Cornwall/P1010812.jpg","x":347,"y":180,"width":400,"height":300},
+		{"id":"ce474a033d92676f","type":"file","file":"Keltoi/3_References/Cornwall/PICT1279.jpg","x":787,"y":180,"width":300,"height":400},
+		{"id":"1b8edec0354a8be6","type":"file","file":"Keltoi/3_References/Cornwall/PICT1386.jpg","x":1127,"y":180,"width":400,"height":300},
+		{"id":"996bfde4a9266eb7","type":"file","file":"Keltoi/3_References/Cornwall/P1010339.jpg","x":-533,"y":180,"width":400,"height":300},
+		{"id":"0590b3e77d7baef2","type":"file","file":"Keltoi/3_References/Cornwall/St_Michael’s_Mount_Marazion_Cornwall_United_Kingdom.jpg","x":-533,"y":620,"width":400,"height":300},
+		{"id":"87f398fa6f38467c","type":"file","file":"Keltoi/3_References/Cornwall/Tintagel Castle - Cornwall.jpg","x":-93,"y":620,"width":400,"height":300}
+	],
+	"edges":[]
+}

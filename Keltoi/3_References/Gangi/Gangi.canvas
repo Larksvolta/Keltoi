@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "id": "0d59aba2890055cf",
+      "type": "link",
+      "url": "https://thepointsguy.global.ssl.fastly.net/uk/originals/2021/04/GettyImages-1186996924.jpg?width=700&dpr=2&auto=webp",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "1486bd63563e5b7f",
+      "type": "link",
+      "url": "https://www.westend61.de/images/0001422686pw/aerial-view-of-gangi-on-sicily-in-italy-AAEF09176.jpg",
+      "styleAttributes": {},
+      "x": 220,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f4434f97b0baefcc",
+      "type": "link",
+      "url": "https://th.bing.com/th/id/R.b2a3a40013e6ff92e6c994be93641ac6?rik=zOcSZ2%2bwXx%2bVJw&riu=http%3a%2f%2fwww.sicily.co.uk%2fwp-content%2fuploads%2fGangi-E4A565.jpg&ehk=CSWfE3sW%2bBhuuVfa6IESxs53052TSKE8K9OVgs8WEHs%3d&risl=&pid=ImgRaw&r=0",
+      "styleAttributes": {},
+      "x": -640,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

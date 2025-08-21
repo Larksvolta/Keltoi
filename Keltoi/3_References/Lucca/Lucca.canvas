@@ -1,0 +1,466 @@
+{
+  "nodes": [
+    {
+      "id": "b249be0faa0d9e74",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/160_Piazza_Anfiteatro-Lucca.jpg",
+      "styleAttributes": {},
+      "x": 1188,
+      "y": -232,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "6861903dd85be1ba",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/24315_12. chiesa di San Martino ossia il Duomo.jpg",
+      "styleAttributes": {},
+      "x": 1633,
+      "y": -232,
+      "width": 300,
+      "height": 400
+    },
+    {
+      "id": "7eee8a18b2b95d57",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/24316_16. torre delle Ore.jpg",
+      "styleAttributes": {},
+      "x": 2078,
+      "y": -232,
+      "width": 300,
+      "height": 400
+    },
+    {
+      "id": "1dfa4a497fb89abd",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/24317_17. DSCN3209.jpg",
+      "styleAttributes": {},
+      "x": 2523,
+      "y": -232,
+      "width": 300,
+      "height": 400
+    },
+    {
+      "id": "91f031a7bb7aa774",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/24318_27..jpg",
+      "styleAttributes": {},
+      "x": 2968,
+      "y": -232,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "30a27bb0e7630655",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/24319_34. la torre Guinigi.jpg",
+      "styleAttributes": {},
+      "x": 3413,
+      "y": -232,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "d782e727bb037e98",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/24320_44. al pomeriggio contina la visita di Lucca- San Michele.jpg",
+      "styleAttributes": {},
+      "x": 3858,
+      "y": -232,
+      "width": 300,
+      "height": 400
+    },
+    {
+      "id": "573caa924239cd29",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/327319154_3113936c72_o.jpg",
+      "styleAttributes": {},
+      "x": 1188,
+      "y": 213,
+      "width": 296,
+      "height": 400
+    },
+    {
+      "id": "5052fbd5b82f481a",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/2717326328_c60eb66957_o.jpg",
+      "styleAttributes": {},
+      "x": 1633,
+      "y": 213,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "4bfc1f4115d5fa85",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/copia-di-lucca-piazza-anfiteatroeng.jpg",
+      "styleAttributes": {},
+      "x": 2078,
+      "y": 213,
+      "width": 400,
+      "height": 267
+    },
+    {
+      "id": "091c405cab224bff",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/IMG_1823 lucca small.jpg",
+      "styleAttributes": {},
+      "x": 2523,
+      "y": 213,
+      "width": 267,
+      "height": 400
+    },
+    {
+      "id": "065f7dcd8265a039",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/Lucca - San Michele 1.jpg",
+      "styleAttributes": {},
+      "x": 2968,
+      "y": 213,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "0059ea149f10189b",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/Lucca - San Michele 2.jpg",
+      "styleAttributes": {},
+      "x": 3413,
+      "y": 213,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "2a0f08829cbcea7c",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/Lucca.jpg",
+      "styleAttributes": {},
+      "x": 3858,
+      "y": 213,
+      "width": 400,
+      "height": 220
+    },
+    {
+      "id": "84487e2438c72f12",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/lucca_1.jpg",
+      "styleAttributes": {},
+      "x": -147,
+      "y": 658,
+      "width": 353,
+      "height": 400
+    },
+    {
+      "id": "02f1e2ddfc09b20e",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/Lucca_labirinto.jpg",
+      "styleAttributes": {},
+      "x": 298,
+      "y": 658,
+      "width": 400,
+      "height": 332
+    },
+    {
+      "id": "cc28cf90af6193ba",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/lucca_san_michele.jpg",
+      "styleAttributes": {},
+      "x": 743,
+      "y": 658,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "4f03bfe5ea2b1bd1",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/lucca_san_michele_arcade_left.jpg",
+      "styleAttributes": {},
+      "x": 1188,
+      "y": 658,
+      "width": 400,
+      "height": 171
+    },
+    {
+      "id": "828dc1fcc982b383",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/lucca_san_michele_arcade_right.jpg",
+      "styleAttributes": {},
+      "x": 1633,
+      "y": 658,
+      "width": 400,
+      "height": 206
+    },
+    {
+      "id": "7a464b682829dccb",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/lucca_san_michele2.jpg",
+      "styleAttributes": {},
+      "x": 2078,
+      "y": 658,
+      "width": 400,
+      "height": 83
+    },
+    {
+      "id": "9c7431ffba2a738e",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/PICT0007.jpg",
+      "styleAttributes": {},
+      "x": 2523,
+      "y": 658,
+      "width": 400,
+      "height": 266
+    },
+    {
+      "id": "8e079c8c3bdb08f3",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/S. Michele.jpg",
+      "styleAttributes": {},
+      "x": 2968,
+      "y": 658,
+      "width": 400,
+      "height": 266
+    },
+    {
+      "id": "9e72e9f380d190d3",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/S. Michele1.jpg",
+      "styleAttributes": {},
+      "x": 3413,
+      "y": 658,
+      "width": 400,
+      "height": 266
+    },
+    {
+      "id": "d6334ac0fa86b1d6",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/S. Michele3.jpg",
+      "styleAttributes": {},
+      "x": 3858,
+      "y": 658,
+      "width": 400,
+      "height": 266
+    },
+    {
+      "id": "55c1d956dec4247a",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/S. Michele6.jpg",
+      "styleAttributes": {},
+      "x": -147,
+      "y": 1103,
+      "width": 266,
+      "height": 400
+    },
+    {
+      "id": "32a01c52b2a55ff9",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/S. Michele7.jpg",
+      "styleAttributes": {},
+      "x": 298,
+      "y": 1103,
+      "width": 266,
+      "height": 400
+    },
+    {
+      "id": "c4921feaca577542",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/S. Michele8.jpg",
+      "styleAttributes": {},
+      "x": 743,
+      "y": 1103,
+      "width": 266,
+      "height": 400
+    },
+    {
+      "id": "d33fefc1d6a5e36f",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/S. Michele9.jpg",
+      "styleAttributes": {},
+      "x": 1188,
+      "y": 1103,
+      "width": 400,
+      "height": 266
+    },
+    {
+      "id": "7d261e70f1eb56f4",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/san martino.jpg",
+      "styleAttributes": {},
+      "x": 1633,
+      "y": 1103,
+      "width": 300,
+      "height": 400
+    },
+    {
+      "id": "29d7154d055d9b75",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/san michele 30.jpg",
+      "styleAttributes": {},
+      "x": 2078,
+      "y": 1103,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "25c741315d0013f5",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/san_martino_e_il_povero.jpg",
+      "styleAttributes": {},
+      "x": 2523,
+      "y": 1103,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "f08df1c323d0a766",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/San_Michele_lucca.jpg",
+      "styleAttributes": {},
+      "x": 2968,
+      "y": 1103,
+      "width": 269,
+      "height": 400
+    },
+    {
+      "id": "989c2a6454afb1ac",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/SanMichele_Lucca.jpg",
+      "styleAttributes": {},
+      "x": 3413,
+      "y": 1103,
+      "width": 300,
+      "height": 400
+    },
+    {
+      "id": "30c21e586e471e2b",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/09LUCCA.jpg",
+      "styleAttributes": {},
+      "x": -147,
+      "y": -232,
+      "width": 300,
+      "height": 400
+    },
+    {
+      "id": "54a599fa260d9029",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/19a7b3accd48143340dbc80cefa2b682.jpg",
+      "styleAttributes": {},
+      "x": 298,
+      "y": -232,
+      "width": 400,
+      "height": 304
+    },
+    {
+      "id": "fa20eee1c01fe628",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/153_Chiesa_di_San_Michele-Lucca.jpg",
+      "styleAttributes": {},
+      "x": 743,
+      "y": -232,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "73700ca1f36f83f2",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/211266.jpg",
+      "styleAttributes": {},
+      "x": -147,
+      "y": 213,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "7a1250a7671c8bae",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/3915773.jpg",
+      "styleAttributes": {},
+      "x": 298,
+      "y": 213,
+      "width": 300,
+      "height": 400
+    },
+    {
+      "id": "c029d96fdf9e5d0e",
+      "type": "file",
+      "file": "Keltoi/3_References/Lucca/7117515.jpg",
+      "styleAttributes": {},
+      "x": 743,
+      "y": 213,
+      "width": 400,
+      "height": 267
+    },
+    {
+      "id": "b6328e53bdbf6523",
+      "type": "link",
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/42/71/05/photo2jpg.jpg?w=500&h=-1&s=1",
+      "styleAttributes": {},
+      "x": 3858,
+      "y": 1103,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "728688bdc77004c4",
+      "type": "link",
+      "url": "https://hotelmedia.s3.amazonaws.com/720/480/dc88eda5d412cad74bc15c383790117ed9b497a5",
+      "styleAttributes": {},
+      "x": -147,
+      "y": 1600,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "40954bd42cd85f3f",
+      "type": "link",
+      "url": "https://hotelmedia.s3.amazonaws.com/720/480/87d9d867e84d44c0275c8a62efe2f0aababeb76b",
+      "styleAttributes": {},
+      "x": 298,
+      "y": 1600,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a5d14604971dc4ef",
+      "type": "link",
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/42/71/04/photo1jpg.jpg?w=1100&h=-1&s=1",
+      "styleAttributes": {},
+      "x": 743,
+      "y": 1600,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e0d7ad4628d217e3",
+      "type": "link",
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d8/05/aa/img-20180103-150236-largejpg.jpg?w=800&h=-1&s=1",
+      "styleAttributes": {},
+      "x": 1233,
+      "y": 1600,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "81bef2d57c5a83cc",
+      "type": "link",
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/0d/af/53/via-del-fosso.jpg?w=700&h=-1&s=1",
+      "styleAttributes": {},
+      "x": 1678,
+      "y": 1600,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "54380b7f6c7cf4e8",
+      "type": "link",
+      "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/0d/af/4c/via-del-fosso.jpg?w=800&h=-1&s=1",
+      "styleAttributes": {},
+      "x": 2160,
+      "y": 1600,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

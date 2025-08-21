@@ -1,0 +1,9 @@
+Cronologia delle Terre di Sangue:
+
+La Terra di Sangue è considerata la prima dimora degli elfi e degli uomini.
+
+I nani furono generati in un secondo momento dal Dio delle Montagne, che era invidioso del fratello maggiore, il Sommo Creatore, genitore degli elfi e degli umani.
+
+Le profonde caverne sotto il monte Patoc erano la dimora del Dio delle Montagne e delle sue schiere di nani-minatori. Dato il luogo nel quale vivevano, il Dio delle Montagne riuscì a celare l’esistenza della sua discendenza per molti secoli. In quei lunghi anni, mentre gli umani conquistavano ogni angolo delle sterminate praterie delle Terre di Sangue, e gli Elfi si godevano la loro immortalità nelle foreste, i Nani erano assoggettati alla schiavitù. Si trovavano in una preziosa gabbia, sfavillante per la luce dei diamanti e mille specie di metalli preziosi, molti dei quali a noi tuttora sconosciuti. Ma non potevano usufruire nemmeno della più piccola pagliuzza d’oro!
+
+Ma un giorno un piccolo drappello si ribellò e risalì in superficie. Subito l’occhio del Sommo Creatore, che tutto vede sopra il sottile manto terrestre (così si erano spartiti il Mondo i due fratelli), li individuò. Si chiese come era possibile che esistessero al mondo degli uomini così repellenti: alti la metà di un uomo, ma molto più robusti, addirittura deformati dai loro possenti muscoli. Vedendoli con delle membra più imponenti dei famosi fabbri umani della città di Ikas e ricoperti da una patina multicolore di polvere metallica, indovinò la loro provenienza. Quando alla fine riuscì a comprendere il loro linguaggio grezzo e gutturale, scoprì che avevano abiurato la loro fede che li incatenava nelle temibili miniere del fratello.

@@ -1,0 +1,27 @@
+/* removes the underline in reading view that comes with the ITS Theme*/
+.md-screenplay h2::after {
+    background: none;
+}
+
+/* removes the underline in source view that comes with the ITS Theme*/
+.markdown-source-view.md-screenplay .HyperMD-header-2::after {
+    background: none;
+}
+
+/* character names */
+
+/* Only reading/preview view
+.HyperMD-header-2 not present in preview view, which is a reading mode
+can also be .markdown-preview-view.md-screenplay*/
+.md-screenplay h2 {
+    color: var(--text-normal);
+}
+
+/* Sadly, works for normal editing mode, source mode and syntax highlight. h2 is not used*/
+.markdown-source-view.md-screenplay .HyperMD-header-2 {
+    color: var(--text-normal);
+}
+
+
+
+

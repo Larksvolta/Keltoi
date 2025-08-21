@@ -1,0 +1,14 @@
+{
+  "theme": "moonstone",
+  "nativeMenus": false,
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "supercharged-links-gen",
+    "S - Callouts",
+    "PRO Screenwriting Snippet",
+    "prova",
+    "AMENDED Screenwriting Snippet"
+  ]
+}

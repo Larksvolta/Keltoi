@@ -1,0 +1,173 @@
+{
+  "edges": [
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "file": "Keltoi/3_References/Thomas Moran/Autumn.jpg",
+      "height": 342,
+      "id": "bf3289d821a602d4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -265,
+      "y": -255
+    },
+    {
+      "file": "Keltoi/3_References/Thomas Moran/Cascading-Water.jpg",
+      "height": 400,
+      "id": "ca5acf76448a307d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 322,
+      "x": 615,
+      "y": -255
+    },
+    {
+      "file": "Keltoi/3_References/Thomas Moran/Cliff-Dwellers.jpg",
+      "height": 277,
+      "id": "53ca57c694a36002",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 175,
+      "y": -255
+    },
+    {
+      "file": "Keltoi/3_References/Thomas Moran/English-Fishing-Village-Cornwall.jpg",
+      "height": 264,
+      "id": "34f0d9df8609ac75",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -705,
+      "y": -255
+    },
+    {
+      "file": "Keltoi/3_References/Thomas Moran/Tantallon-Castle-North-Berwick-Scotland.jpg",
+      "height": 292,
+      "id": "2abec6c05eb8fa38",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 615,
+      "y": 185
+    },
+    {
+      "file": "Keltoi/3_References/Thomas Moran/Green-River-Wyoming.jpg",
+      "height": 275,
+      "id": "c5befc2fbc2ef1a4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -705,
+      "y": 185
+    },
+    {
+      "file": "Keltoi/3_References/Thomas Moran/Landscapes.jpg",
+      "height": 267,
+      "id": "89e8eec417e952f6",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -265,
+      "y": 185
+    },
+    {
+      "file": "Keltoi/3_References/Thomas Moran/The-Morning-After.jpg",
+      "height": 321,
+      "id": "9d91d11a96ea2af6",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 175,
+      "y": 185
+    },
+    {
+      "file": "Keltoi/3_References/Thomas Moran/The-Woodland-Pool.jpg",
+      "height": 264,
+      "id": "110a0eb4c04073a1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 399,
+      "x": -266,
+      "y": 546
+    },
+    {
+      "file": "Keltoi/3_References/Thomas Moran/The-Passing-Storm.jpg",
+      "height": 294,
+      "id": "c5b12864d04b26fa",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 399,
+      "x": -705,
+      "y": 546
+    },
+    {
+      "file": "Keltoi/3_References/Thomas Moran/Twilight.jpg",
+      "height": 297,
+      "id": "d65aa353a65f39b6",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 399,
+      "x": 529,
+      "y": 546
+    },
+    {
+      "file": "Keltoi/3_References/Thomas Moran/Two-Owls.jpg",
+      "height": 400,
+      "id": "8213ae07f7e1b08a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 316,
+      "x": 173,
+      "y": 546
+    },
+    {
+      "file": "Keltoi/3_References/Thomas Moran/Ulysses-and-the-Sirens.jpg",
+      "height": 274,
+      "id": "3655a52d610f6228",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -705,
+      "y": 986
+    },
+    {
+      "file": "Keltoi/3_References/Thomas Moran/Yellowstone-Canyon.jpg",
+      "height": 309,
+      "id": "4a5077b953d92126",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -265,
+      "y": 986
+    },
+    {
+      "file": "Keltoi/3_References/Thomas Moran/Zion-Valley-South-Utah.jpg",
+      "height": 205,
+      "id": "29057296931440b1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 399,
+      "x": 175,
+      "y": 986
+    }
+  ]
+}

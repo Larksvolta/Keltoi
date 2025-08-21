@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a1b6ad9b3f825306","type":"file","file":"Keltoi/3_References/Parchment/316w76f.jpg","x":-466,"y":-177,"width":400,"height":295},
+		{"id":"0ab8f0be31e392d3","type":"file","file":"Keltoi/3_References/Parchment/PERGAMENA GABBIANObig.jpg","x":-46,"y":-177,"width":288,"height":400},
+		{"id":"8c23b65d889a3405","type":"file","file":"Keltoi/3_References/Parchment/pergamena.jpg","x":262,"y":-177,"width":400,"height":320},
+		{"id":"e5722c612a715fbf","type":"file","file":"Keltoi/3_References/Parchment/Pergamena_Federico2_Spoleto.jpg","x":682,"y":-177,"width":400,"height":355}
+	],
+	"edges":[]
+}

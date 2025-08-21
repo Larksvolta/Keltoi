@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"7e45a30994ff55ab","x":-189,"y":-268,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Stable Diffusion/download (1).jpg"},
+		{"id":"1ad4a7e851b85061","x":256,"y":-268,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Stable Diffusion/download (2).jpg"},
+		{"id":"78f45b1bf4e46952","x":701,"y":-268,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Stable Diffusion/download (3).jpg"},
+		{"id":"bbf440f2332fc0e1","x":1146,"y":-268,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Stable Diffusion/download (4).jpg"},
+		{"id":"77e4976a0e9fc4fd","x":1591,"y":-268,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Stable Diffusion/download (5).jpg"},
+		{"id":"504fad92eaec4783","x":2036,"y":-268,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Stable Diffusion/download (6).jpg"},
+		{"id":"4869ceb2d191647d","x":2481,"y":-268,"width":400,"height":400,"type":"file","file":"Keltoi/3_References/Stable Diffusion/download.jpg"}
+	],
+	"edges":[]
+}

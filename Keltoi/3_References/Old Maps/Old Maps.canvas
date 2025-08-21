@@ -1,0 +1,86 @@
+{
+  "nodes": [
+    {
+      "id": "9be38ed050e33662",
+      "type": "link",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/1780_map_showing_the_area_around_the_medieval_fortress_of_and_town_of_Klis.jpg/800px-1780_map_showing_the_area_around_the_medieval_fortress_of_and_town_of_Klis.jpg?20200426151040",
+      "styleAttributes": {},
+      "x": 240,
+      "y": -660,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d79e670c211a33d6",
+      "type": "link",
+      "url": "https://medievalists.gumlet.io/wp-content/uploads/2013/07/beatus-medieval-map.jpg?format=webp&compress=true&quality=80&w=900&dpr=1",
+      "styleAttributes": {},
+      "x": 680,
+      "y": -660,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e2d1dfab7cdd8a94",
+      "type": "link",
+      "url": "https://medievalists.gumlet.io/wp-content/uploads/2013/07/Alexandria_by_Piri_Reis.jpg?format=webp&compress=true&quality=80&w=800&dpr=1",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -660,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "56f00ccfaee1bfa2",
+      "type": "link",
+      "url": "https://medievalists.gumlet.io/wp-content/uploads/2013/07/TabulaRogeriana.jpg?format=webp&compress=true&quality=80&w=800&dpr=1",
+      "styleAttributes": {},
+      "x": 1120,
+      "y": -660,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "38bcf466ea8cb9a8",
+      "type": "link",
+      "url": "https://medievalists.gumlet.io/wp-content/uploads/2013/07/hereford_mappa_mundi.jpg?format=webp&compress=true&quality=80&w=800&dpr=1",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9be422eecf505824",
+      "type": "link",
+      "url": "https://medievalists.gumlet.io/wp-content/uploads/2013/07/Carta_Marina.jpeg?format=webp&compress=true&quality=80&w=800&dpr=1",
+      "styleAttributes": {},
+      "x": 240,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ade90167326477d3",
+      "type": "link",
+      "url": "https://medievalists.gumlet.io/wp-content/uploads/2013/07/gallery-of-maps.jpg?format=webp&compress=true&quality=80&w=800&dpr=1",
+      "styleAttributes": {},
+      "x": 680,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d4e7e1ae6e4e5904",
+      "type": "link",
+      "url": "https://theabbeystudioblog.com/wp-content/uploads/2016/07/Islandia_Ortelius_1590_Theatrum_Orbis_Terrarum_CR.jpg",
+      "styleAttributes": {},
+      "x": 1120,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

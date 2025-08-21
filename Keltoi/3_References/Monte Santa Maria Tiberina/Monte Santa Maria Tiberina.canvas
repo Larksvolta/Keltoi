@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"2a619041849b94e3","type":"link","url":"https://citynews-perugiatoday.stgy.ovh/~media/original-hi/32122201986213/monte-santa-maria-tiberina.jpeg","x":-260,"y":-200,"width":400,"height":400},
+		{"id":"85b72406735326c5","type":"link","url":"https://www.segugivagabondi.it/wp-content/uploads/2023/03/Monte-Santa-Maria-Tiberina-4.jpg","x":160,"y":-200,"width":400,"height":400},
+		{"id":"6ca4cdec52dffd3a","type":"link","url":"https://www.segugivagabondi.it/wp-content/uploads/2023/03/Monte-Santa-Maria-Tiberina-8.jpg","x":-260,"y":220,"width":400,"height":400},
+		{"id":"5c451a781de7200c","type":"link","url":"https://www.segugivagabondi.it/wp-content/uploads/2023/03/Monte-Santa-Maria-Tiberina-5.jpg","x":580,"y":220,"width":400,"height":400},
+		{"id":"7da18aa29a21fe54","type":"link","url":"https://www.segugivagabondi.it/wp-content/uploads/2023/03/Monte-Santa-Maria-Tiberina-6.jpg","x":160,"y":220,"width":400,"height":400}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

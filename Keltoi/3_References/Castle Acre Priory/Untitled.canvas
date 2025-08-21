@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"29fad88353ee50a4","type":"file","file":"Keltoi/3_References/Castle Acre Priory/090705-F-8820I-001.jpg","x":571,"y":-212,"width":400,"height":228},
+		{"id":"d949cfcfd81bea55","type":"file","file":"Keltoi/3_References/Castle Acre Priory/aug07 136.jpg","x":1016,"y":-212,"width":400,"height":300},
+		{"id":"e189bccbb1cb0fe3","type":"file","file":"Keltoi/3_References/Castle Acre Priory/Castle-Acre-4023.jpg","x":1461,"y":-212,"width":400,"height":250},
+		{"id":"bd1b8c1be10e63f5","type":"file","file":"Keltoi/3_References/Castle Acre Priory/Castle-Acre-Priory.jpg","x":1906,"y":-212,"width":300,"height":400},
+		{"id":"ebae4a52ba91e717","type":"file","file":"Keltoi/3_References/Castle Acre Priory/Castle-Acre-priory-760666.jpg","x":2351,"y":-212,"width":400,"height":300},
+		{"id":"7a63f01a504d256d","type":"file","file":"Keltoi/3_References/Castle Acre Priory/Priory.jpg","x":2796,"y":-212,"width":400,"height":297},
+		{"id":"a0eb24e00aca189d","type":"file","file":"Keltoi/3_References/Castle Acre Priory/PriorySite.jpg","x":3241,"y":-212,"width":400,"height":119},
+		{"id":"12a6d0450d5cc7d8","type":"file","file":"Keltoi/3_References/Castle Acre Priory/PrioryWestend.jpg","x":3686,"y":-212,"width":300,"height":400},
+		{"id":"160782e5e7508220","type":"file","file":"Keltoi/3_References/Castle Acre Priory/1024Castle-Acre-3970.jpg","x":126,"y":-212,"width":400,"height":300}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

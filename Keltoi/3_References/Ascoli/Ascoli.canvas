@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "id": "cfd8fa3e805dda2a",
+      "type": "link",
+      "url": "https://www.destinazionemarche.it/wp-content/uploads/2015/06/ascoli-piceno.jpg",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}
