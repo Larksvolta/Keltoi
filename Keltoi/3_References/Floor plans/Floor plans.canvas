@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"f558d29ebe70fdd7","x":0,"y":186,"width":400,"height":297,"type":"file","file":"Keltoi/3_References/Floor plans/Pasted image 20240816152916.png"}
+		{"id":"f558d29ebe70fdd7","type":"file","file":"Keltoi/3_References/Floor plans/Pasted image 20240816152916.png","x":0,"y":186,"width":400,"height":297}
 	],
 	"edges":[],
-	"metadata":{}
+	"metadata":{"version":"1.0-1.0"}
 }
