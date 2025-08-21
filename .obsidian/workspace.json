@@ -184,19 +184,9 @@
               "icon": "lucide-info",
               "title": "File properties for Prologue"
             }
-          },
-          {
-            "id": "f576243f059b7fcd",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -218,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2487e8ad03fc8af3",
+  "active": "599578ea3bc307ae",
   "lastOpenFiles": [
     "Keltoi/0_Screenplay/Chapter 1.md",
     "Keltoi/1_Characters/Character1.md",
