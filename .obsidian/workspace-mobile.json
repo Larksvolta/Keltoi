@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Keltoi/0_Screenplay/Prologue.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -181,5 +181,9 @@
     }
   },
   "active": "2e023ec314797a99",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Keltoi/3_References/Cortona/Cortona.canvas",
+    "Keltoi/0_Screenplay/Prologue.md",
+    "Keltoi/Notes.md"
+  ]
 }

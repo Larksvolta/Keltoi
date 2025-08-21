@@ -1,96 +1,96 @@
 {
-  "nodes": [
-    {
-      "id": "9f6be50ec7171165",
-      "type": "link",
-      "url": "https://cortonamore.it/wp-content/uploads/2013/04/Il-Panorame-della-Via-Crucis-Cortona.jpg",
-      "styleAttributes": {},
-      "x": 320,
-      "y": 889,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "1233bb5d4e6789bd",
-      "type": "link",
-      "url": "https://c8.alamy.com/compit/2r8536n/sentiero-fino-alla-cima-di-cortona-toscana-italia-2r8536n.jpg",
-      "styleAttributes": {},
-      "x": 320,
-      "y": -134,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "db32c5c784eda1b1",
-      "type": "link",
-      "url": "https://blogcamminarenellastoria.wordpress.com/wp-content/uploads/2020/02/1-uno-scorcio-di-via-santa-margherita-a-cortona.jpg",
-      "styleAttributes": {},
-      "x": -200,
-      "y": 358,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "9edb305e3ff6c77a",
-      "type": "link",
-      "url": "https://www.cortonatouristguide.com/assets/images/tours/cortona-classica/03.jpg",
-      "styleAttributes": {},
-      "x": -200,
-      "y": -200,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e41ade06375439be",
-      "type": "link",
-      "url": "https://c8.alamy.com/compit/pekj94/cortona-toscana-italia-via-santa-margherita-percorso-a-piedi-alla-basilica-con-lo-stesso-nome-e-si-trovano-sulla-collina-sopra-la-citta-pekj94.jpg",
-      "styleAttributes": {},
-      "x": -200,
-      "y": 916,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "b18e3a437e1c18fa",
-      "type": "link",
-      "url": "https://media.gettyimages.com/id/519509038/photo/cortona-tuscany-italy-santa-margherita-street-links-the-town-center-and-climbs-up-the-saint.jpg?s=612x612&w=gi&k=20&c=F_J71sDKlW-YGSYFfnsQSznd-CtmFnlxo-ZVDZd7X7w=",
-      "styleAttributes": {},
-      "x": 320,
-      "y": 424,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "23faf695226a9e2a",
-      "type": "link",
-      "url": "https://c8.alamy.com/compfr/2r85390/sentier-menant-au-sommet-de-cortona-toscane-italie-2r85390.jpg",
-      "styleAttributes": {},
-      "x": -200,
-      "y": 1360,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "7fbdc7b25e92c17f",
-      "type": "link",
-      "url": "https://previews.123rf.com/images/robertonencini/robertonencini1603/robertonencini160300351/54502797-cortona-es-uno-de-los-m%C3%A1s-antigua-ciudad-etrusca-y-dada-la-elevada-posici%C3%B3n-600-slm-goza-de-una.jpg",
-      "styleAttributes": {},
-      "x": 320,
-      "y": 1360,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "a110a4d2d1c6c85d",
-      "type": "link",
-      "url": "https://blogginginitaly.com/wp-content/uploads/2017/05/img_8180.jpg?w=584",
-      "styleAttributes": {},
-      "x": -200,
-      "y": 1840,
-      "width": 400,
-      "height": 400
-    }
-  ],
-  "edges": [],
-  "metadata": {}
+	"nodes":[
+		{
+			"id":"9f6be50ec7171165",
+			"type":"link",
+			"url":"https://cortonamore.it/wp-content/uploads/2013/04/Il-Panorame-della-Via-Crucis-Cortona.jpg",
+			"styleAttributes":{},
+			"x":320,
+			"y":889,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"1233bb5d4e6789bd",
+			"type":"link",
+			"url":"https://c8.alamy.com/compit/2r8536n/sentiero-fino-alla-cima-di-cortona-toscana-italia-2r8536n.jpg",
+			"styleAttributes":{},
+			"x":320,
+			"y":-134,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"db32c5c784eda1b1",
+			"type":"link",
+			"url":"https://blogcamminarenellastoria.wordpress.com/wp-content/uploads/2020/02/1-uno-scorcio-di-via-santa-margherita-a-cortona.jpg",
+			"styleAttributes":{},
+			"x":-200,
+			"y":358,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"9edb305e3ff6c77a",
+			"type":"link",
+			"url":"https://www.cortonatouristguide.com/assets/images/tours/cortona-classica/03.jpg",
+			"styleAttributes":{},
+			"x":-200,
+			"y":-200,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"e41ade06375439be",
+			"type":"link",
+			"url":"https://c8.alamy.com/compit/pekj94/cortona-toscana-italia-via-santa-margherita-percorso-a-piedi-alla-basilica-con-lo-stesso-nome-e-si-trovano-sulla-collina-sopra-la-citta-pekj94.jpg",
+			"styleAttributes":{},
+			"x":-200,
+			"y":916,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"b18e3a437e1c18fa",
+			"type":"link",
+			"url":"https://media.gettyimages.com/id/519509038/photo/cortona-tuscany-italy-santa-margherita-street-links-the-town-center-and-climbs-up-the-saint.jpg?s=612x612&w=gi&k=20&c=F_J71sDKlW-YGSYFfnsQSznd-CtmFnlxo-ZVDZd7X7w=",
+			"styleAttributes":{},
+			"x":320,
+			"y":424,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"23faf695226a9e2a",
+			"type":"link",
+			"url":"https://c8.alamy.com/compfr/2r85390/sentier-menant-au-sommet-de-cortona-toscane-italie-2r85390.jpg",
+			"styleAttributes":{},
+			"x":-200,
+			"y":1360,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"7fbdc7b25e92c17f",
+			"type":"link",
+			"url":"https://previews.123rf.com/images/robertonencini/robertonencini1603/robertonencini160300351/54502797-cortona-es-uno-de-los-m%C3%A1s-antigua-ciudad-etrusca-y-dada-la-elevada-posici%C3%B3n-600-slm-goza-de-una.jpg",
+			"styleAttributes":{},
+			"x":320,
+			"y":1360,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"a110a4d2d1c6c85d",
+			"type":"link",
+			"url":"https://blogginginitaly.com/wp-content/uploads/2017/05/img_8180.jpg?w=584",
+			"styleAttributes":{},
+			"x":-200,
+			"y":1840,
+			"width":400,
+			"height":400
+		}
+	],
+	"edges":[],
+	"metadata":{"version":"1.0-1.0"}
 }
