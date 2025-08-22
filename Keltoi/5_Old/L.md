@@ -4,13 +4,13 @@ Bisogna spiegare in un modo logico, verosimile come la magia si sia manifestata.
 
 E invece noi si dimostrerà che esse son sempre esistite, anche se erano dominio di pochissime persone che hanno custodito il segreto per millenni.
 
-Certo, se io sto qua a parlare di magia voi penserete che invece qualcosa è trapelato. Si, ve lo concedo, ma dovete ammettere che si è sempre parlato di leggende, di miti avvenuti in tempi remoti…e nessuno può verificarne la veridicità!
+Certo, se io sto qua a parlare di magia voi penserete che invece qualcosa è trapelato. Si, ve lo concedo, ma dovete ammettere che si è sempre parlato di leggende, di miti avvenuti in tempi remoti… e nessuno può verificarne la veridicità!
 
 Ebbene, bisogna studiare una ragione per spiegare come mai un fenomeno che avrebbe avuto una espansione virale è sempre stato considerato materia di fantasticherie!
 
 Ma ora mi sto mi dimenticando delle religioni!
 
-Idea alternativa: Ambientare il videogioco non nel nostro medioevo (magico) ma in un futuro dove il mondo è ritornato al medioevo grazie ad una esplosione magica…un asteroide imbevuto di mana, qualcosa di simile! La magia c’è sempre stata ma i maghi son sempre stati abili a celarla alle persone normali….
+Idea alternativa: Ambientare il videogioco non nel nostro medioevo (magico) ma in un futuro dove il mondo è ritornato al medioevo grazie ad una esplosione magica… un asteroide imbevuto di mana, qualcosa di simile! La magia c’è sempre stata ma i maghi son sempre stati abili a celarla alle persone normali….
 
 Ritorniamo all’idea originale…
 
