@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keltoi/5_Old/L.md",
-                "mode": "source",
+                "file": "Keltoi/0_Screenplay/Prologue.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L"
+              "title": "Prologue"
             }
           }
         ]
@@ -183,12 +183,15 @@
   },
   "active": "9f8fed22d5cb8c6f",
   "lastOpenFiles": [
+    "Keltoi/Notes.md",
+    "Keltoi/0_Screenplay/Prologue.md",
+    "Keltoi/2_Locations/Location1.md",
+    "Keltoi/1_Characters/Character1.md",
+    "Keltoi/1_Characters/Protagonist2.md",
+    "Keltoi/5_Old/L.md",
     "Keltoi/5_Old/Cronologia delle Terre di Sangue.md",
     "Keltoi/5_Old/Cosmogonia.md",
     "Keltoi/0_Screenplay/Chapter 1.md",
-    "Keltoi/0_Screenplay/Prologue.md",
-    "Keltoi/Notes.md",
-    "Keltoi/1_Characters/Character1.md",
     "Keltoi/3_References/Floor plans/Floor plans.canvas",
     "Keltoi/3_References/Via Amerina/Via Amerina.canvas",
     "Chapter 1.md",
