@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keltoi/0_Screenplay/Chapter 1.md",
+                "file": "Keltoi/5_Old/Cronologia delle Terre di Sangue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1"
+              "title": "Cronologia delle Terre di Sangue"
             }
           }
         ]
@@ -181,12 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06863e4dc07e8fc8",
+  "active": "9f8fed22d5cb8c6f",
   "lastOpenFiles": [
+    "Keltoi/5_Old/Cosmogonia.md",
+    "Keltoi/0_Screenplay/Chapter 1.md",
     "Keltoi/0_Screenplay/Prologue.md",
     "Keltoi/Notes.md",
     "Keltoi/1_Characters/Character1.md",
-    "Keltoi/0_Screenplay/Chapter 1.md",
     "Keltoi/3_References/Floor plans/Floor plans.canvas",
     "Keltoi/3_References/Via Amerina/Via Amerina.canvas",
     "Chapter 1.md",
