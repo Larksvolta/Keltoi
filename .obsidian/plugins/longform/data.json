@@ -6,6 +6,26 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2025-08-23T07:15:52.559Z",
+      "total": 0,
+      "drafts": {
+        "Miscellaneous/Longform/Keltoi/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-08-22T21:55:54.553Z",
+      "total": 0,
+      "drafts": {
+        "Miscellaneous/Longform/Keltoi/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2025-08-20T22:13:29.039Z",
       "total": 0,
       "drafts": {
@@ -277,26 +297,6 @@
     },
     {
       "start": "2025-04-04T16:59:39.425Z",
-      "total": 0,
-      "drafts": {
-        "Miscellaneous/Longform/Keltoi/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-03-09T11:24:15.144Z",
-      "total": 0,
-      "drafts": {
-        "Miscellaneous/Longform/Keltoi/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-02-12T19:34:13.262Z",
       "total": 0,
       "drafts": {
         "Miscellaneous/Longform/Keltoi/Index.md": {
