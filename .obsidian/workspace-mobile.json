@@ -11,14 +11,17 @@
             "id": "9f8fed22d5cb8c6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Keltoi/0_Screenplay/Chapter 1.md",
-                "mode": "source",
-                "source": false
+                "file": "Keltoi/3_References/Lanciano/Lanciano.canvas",
+                "viewState": {
+                  "x": 55.51304129681536,
+                  "y": 307.48850068823555,
+                  "zoom": -0.645570171807696
+                }
               },
-              "icon": "lucide-file",
-              "title": "Chapter 1"
+              "icon": "lucide-layout-dashboard",
+              "title": "Lanciano"
             }
           }
         ]
@@ -183,11 +186,18 @@
   },
   "active": "9f8fed22d5cb8c6f",
   "lastOpenFiles": [
-    "Keltoi/0_Screenplay/Chapter 1.md",
-    "Keltoi/3_References/Via Amerina/Via Amerina.canvas",
-    "Chapter 1.md",
     "Keltoi/0_Screenplay/Prologue.md",
     "Keltoi/Notes.md",
+    "Keltoi/2_Locations/Location1.md",
+    "Keltoi/1_Characters/Character1.md",
+    "Keltoi/1_Characters/Protagonist2.md",
+    "Keltoi/5_Old/L.md",
+    "Keltoi/5_Old/Cronologia delle Terre di Sangue.md",
+    "Keltoi/5_Old/Cosmogonia.md",
+    "Keltoi/0_Screenplay/Chapter 1.md",
+    "Keltoi/3_References/Floor plans/Floor plans.canvas",
+    "Keltoi/3_References/Via Amerina/Via Amerina.canvas",
+    "Chapter 1.md",
     "Keltoi/3_References/Dam City/Dam City.canvas",
     "Keltoi/7_Blender/Tutorials.md",
     "Keltoi/3_References/Architettura romanica/Architettura romanica.canvas",

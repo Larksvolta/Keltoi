@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Location1"
             }
+          },
+          {
+            "id": "9cd1fce690a7534a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/longform/data.json",
+                "bFile": ".obsidian/plugins/longform/data.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,11 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Keltoi/2_Locations/Location1.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Location1"
+              "title": "File properties"
             }
           },
           {
@@ -217,8 +230,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "028a4c65bae08e03",
+  "active": "9cd1fce690a7534a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Keltoi/2_Locations/Location1.md",
     "Keltoi/1_Characters/Protagonist2.md",
     "Keltoi/1_Characters/Protagonist1.md",
     "Keltoi/0_Screenplay/Prologue.md",
@@ -233,7 +248,6 @@
     "Keltoi/6_UE5/Inventory.md",
     "Keltoi/3_References/Castle Acre Priory/Untitled.canvas",
     "2025-08-21.md",
-    "Keltoi/2_Locations/Location1.md",
     "Keltoi/3_References/Krak/Krak.canvas",
     "Keltoi/3_References/Monte Santa Maria Tiberina/Monte Santa Maria Tiberina.canvas",
     "Keltoi/3_References/Nepi/Nepi.canvas",
