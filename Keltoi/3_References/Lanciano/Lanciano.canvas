@@ -1,56 +1,56 @@
 {
-  "nodes": [
-    {
-      "id": "e0e436f7933c60e2",
-      "type": "link",
-      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOtM9hRNGZbIkLesA_HhRnJngFcuuCsl2LFM0cfbrf55m99qZYL5vDr8HWDukfym-zcg4yJrwCtgrnZEKvNZ0pQN_xByCwiWDlKY1ZIQY7Zkw17tClFdGHoSMZHkdJXkt5BsYvCyGL-b0/s550/lanciano10.jpg",
-      "styleAttributes": {},
-      "x": -200,
-      "y": -200,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "3e1f53fa9b63f413",
-      "type": "link",
-      "url": "https://www.yesabruzzo.com/wp-content/uploads/2017/07/cattedrale-della-madonna-del-ponte-a-lanciano-2.jpg",
-      "styleAttributes": {},
-      "x": 260,
-      "y": -200,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "d1108d5fdc19127a",
-      "type": "link",
-      "url": "https://images.placesonline.com/photos/108885_lanciano_ponte_di_diocleziano.jpg?quality=80&w=637",
-      "styleAttributes": {},
-      "x": -200,
-      "y": 240,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "8983223b0966cfa2",
-      "type": "link",
-      "url": "https://www.rete8.it/wp-content/uploads/2016/01/diocleziano-676x437.jpg",
-      "styleAttributes": {},
-      "x": 260,
-      "y": 240,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "0b7de612537233c3",
-      "type": "link",
-      "url": "https://www.molisetoursnc.com/wp-content/uploads/2020/03/7.-Lanciano-Ponte-di-Diocleziano.jpg",
-      "styleAttributes": {},
-      "x": -200,
-      "y": 680,
-      "width": 400,
-      "height": 400
-    }
-  ],
-  "edges": [],
-  "metadata": {}
+	"nodes":[
+		{
+			"id":"e0e436f7933c60e2",
+			"type":"link",
+			"url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOtM9hRNGZbIkLesA_HhRnJngFcuuCsl2LFM0cfbrf55m99qZYL5vDr8HWDukfym-zcg4yJrwCtgrnZEKvNZ0pQN_xByCwiWDlKY1ZIQY7Zkw17tClFdGHoSMZHkdJXkt5BsYvCyGL-b0/s550/lanciano10.jpg",
+			"styleAttributes":{},
+			"x":-200,
+			"y":-200,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"3e1f53fa9b63f413",
+			"type":"link",
+			"url":"https://www.yesabruzzo.com/wp-content/uploads/2017/07/cattedrale-della-madonna-del-ponte-a-lanciano-2.jpg",
+			"styleAttributes":{},
+			"x":260,
+			"y":-200,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"d1108d5fdc19127a",
+			"type":"link",
+			"url":"https://images.placesonline.com/photos/108885_lanciano_ponte_di_diocleziano.jpg?quality=80&w=637",
+			"styleAttributes":{},
+			"x":-200,
+			"y":240,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"8983223b0966cfa2",
+			"type":"link",
+			"url":"https://www.rete8.it/wp-content/uploads/2016/01/diocleziano-676x437.jpg",
+			"styleAttributes":{},
+			"x":260,
+			"y":240,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"0b7de612537233c3",
+			"type":"link",
+			"url":"https://www.molisetoursnc.com/wp-content/uploads/2020/03/7.-Lanciano-Ponte-di-Diocleziano.jpg",
+			"styleAttributes":{},
+			"x":-200,
+			"y":680,
+			"width":400,
+			"height":400
+		}
+	],
+	"edges":[],
+	"metadata":{"version":"1.0-1.0"}
 }
