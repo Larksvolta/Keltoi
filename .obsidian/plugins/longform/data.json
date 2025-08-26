@@ -6,7 +6,11 @@
   "sessionStorage": "data",
   "sessions": [
     {
+<<<<<<< HEAD
       "start": "2025-08-25T21:16:39.300Z",
+=======
+      "start": "2025-08-23T07:36:02.522Z",
+>>>>>>> d070f5af6e7cb3253e0778371763a8fcfd715faf
       "total": 0,
       "drafts": {
         "Miscellaneous/Longform/Keltoi/Index.md": {
