@@ -11,17 +11,14 @@
             "id": "4f568619b36e2986",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Keltoi/3_References/Sushtar/Sushtar.canvas",
-                "viewState": {
-                  "x": -620,
-                  "y": -153,
-                  "zoom": -1.6017132519074588e-16
-                }
+                "file": "Keltoi/6_UE5/Localization.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sushtar"
+              "icon": "lucide-file",
+              "title": "Localization"
             }
           }
         ]
@@ -220,6 +217,7 @@
   },
   "active": "4f568619b36e2986",
   "lastOpenFiles": [
+    "Keltoi/3_References/Sushtar/Sushtar.canvas",
     "Keltoi/0_Screenplay/Chapter 1.md",
     "conflict-files-obsidian-git.md",
     "Keltoi/2_Locations/Location1.md",
@@ -258,7 +256,6 @@
     "Keltoi/3_References/ConceptArt",
     "Keltoi/3_References/Via Amerina",
     "BFEI/Work Experience/Work Experience.md",
-    "BFEI/Work Experience/Untitled.md",
     "Sitemap.svg",
     "Keltoi/3_References/Architettura romanica/Architettura romanica.canvas",
     "Keltoi/3_References/Cortona",
